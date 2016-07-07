@@ -39,3 +39,12 @@ OUTPUT FILES GENERATED:
 3) opine3.txt : Final Expanded Opinion Set
 4) FinalFeature.txt : Final Filtered Features Set based on the user Set threshold.
 5) annote.txt : Final OUTPUT FILE
+
+JAR FILES REQUIRED
+1) english_SD.gz
+2) english_UD.gz
+3) englishPCFG.ser.gz
+4) english-bidirectional-distsim.tagger
+5) english-bidirectional-distsim.tagger.props
+
+All the jar files are publicly available in http://nlp.stanford.edu/software/lex-parser.shtml#Download .
